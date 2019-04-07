@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="custom">
+    <output-path>D:/Users/李德林/Desktop</output-path>
+    <root id="archive" name="custom.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Custom" />
+      <element id="library" level="project" name="Maven: org.reflections:reflections:0.9.11" />
+    </root>
+  </artifact>
+</component>
