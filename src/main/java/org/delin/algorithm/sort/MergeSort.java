@@ -1,4 +1,4 @@
-package org.delin.algorithm;
+package org.delin.algorithm.sort;
 
 import org.delin.test.array.ArrayPrinter;
 import org.delin.test.data.UnsortBigDataGenerator;
@@ -7,12 +7,12 @@ import java.io.*;
 import java.nio.file.*;
 import java.util.Arrays;
 import java.util.LinkedList;
-import java.util.List;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.TimeUnit;
 /**
  * 分治排序
  * bug 会多出一行
+ * 使用生产者-消费者模型优化
  * 尝试使用位图索引
  */
 public class MergeSort {

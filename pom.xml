@@ -19,6 +19,13 @@
     </properties>
 
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/xin.xihc/CommonUtils -->
+        <dependency>
+            <groupId>xin.xihc</groupId>
+            <artifactId>CommonUtils</artifactId>
+            <version>1.19.5</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.reflections/reflections -->
         <dependency>
             <groupId>org.reflections</groupId>

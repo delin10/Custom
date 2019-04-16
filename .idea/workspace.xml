@@ -10,46 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48667f86-63e9-4abb-9581-592348bdd920" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/custom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/algorithm/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/mem/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/mem/InstrumentAgent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/test/array/ArrayPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/test/data/UnsortBigDataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/algorithm/MergeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/concurrent/HowToStopAThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/concurrent/InterruptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/concurrent/ResumeAndSuspendTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/concurrent/TestObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/concurrent/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/BeanUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/IE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/IG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/RelectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/SyntheticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/TestBeanA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/TestBeanB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/reflect/TestInherit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/algorithm/backtrack/EightQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/algorithm/recursion/Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/algorithm/tiertree/TrieTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/algorithm/tiertree/TrieTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/delin/util/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/delin/algorithm/trietree/TrieTreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/delin/mem/UnsafeAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/delin/mem/UnsafeAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/delin/reflect/AbstractReflector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/delin/reflect/AbstractReflector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/delin/reflect/IReflector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/delin/reflect/IReflector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/delin/reflect/impl/JReflectorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/delin/reflect/impl/JReflectorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/delin/mem/UnsafeAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/delin/mem/UnsafeAccessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/delin/mem/UnsafeAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/delin/mem/UnsafeAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/delin/reflect/AbstractReflector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/delin/reflect/AbstractReflector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/delin/reflect/IReflector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/delin/reflect/IReflector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/delin/reflect/impl/JReflectorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/delin/reflect/impl/JReflectorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/delin/algorithm/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/delin/algorithm/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/delin/algorithm/MergeSort.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,12 +32,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/MergeSort.java">
+    <leaf>
+      <file leaf-file-name="TrieTreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/tiertree/TrieTreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="256">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#1836#1837#0" expanded="true" />
+                <element signature="e#1867#1868#0" expanded="true" />
+                <element signature="e#1895#1896#0" expanded="true" />
+                <element signature="e#1922#1923#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrieTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/tiertree/TrieTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrieTreeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/delin/algorithm/trietree/TrieTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,14 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnsortBigDataGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/test/data/UnsortBigDataGenerator.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="630">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -114,6 +132,10 @@
       <find>group</find>
       <find>ThreadGroup group</find>
       <find>getThreadGroup</find>
+      <find>package org\.delin\.algorithm\.backtrack\;\n\npublic class Hanoi \{\n    public static void hanoi\(char a\,char b\,char c\,int n\)\{\n        \n    \}\n\}\n</find>
+      <find>package org\.delin\.algorithm\.backtrack\;\n\npublic class Hanoi \{\n    public static void hanoi\(char a\,char b\,char c\,int n\)\{\n        if \(n\=\=1\) \{\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n            return\;\n        \}else\{\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ b\)\;\n            System\.out\.println\(c \+ \&quot;\-\&gt;\&quot; \+ b\)\;\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n            System\.out\.println\(b \+ \&quot;\-\&gt;\&quot; \+ a\)\;\n            System\.out\.println\(b \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n        \}\n    \}\n\n    public static void main\(String\[\]args\)\{\n        hanoi\(\'A\'\,\'B\'\,\'C\'\,2\)\;\n    \}\n\}\n</find>
+      <find>package org\.delin\.algorithm\.backtrack\;\n\npublic class Hanoi \{\n    public static void hanoi\(char a\, char b\, char c\, int n\) \{\n        if \(n \=\= 1\) \{\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n            return\;\n        \}\n        if \(n\&gt;\=2\)\{\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ b\)\;\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n            System\.out\.println\(b \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n        \}\n        if \(n\&gt;2\)\{\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ b\)\;\n            System\.out\.println\(c \+ \&quot;\-\&gt;\&quot; \+ b\)\;\n            System\.out\.println\(a \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n            System\.out\.println\(b \+ \&quot;\-\&gt;\&quot; \+ a\)\;\n            System\.out\.println\(b \+ \&quot;\-\&gt;\&quot; \+ c\)\;\n            hanoi\(a\, b\, c\, n \- 1\)\;\n        \}\n    \}\n\n    public static void main\(String\[\] args\) \{\n        hanoi\(\'A\'\, \'B\'\, \'C\'\, 2\)\;\n    \}\n\}\n</find>
+      <find>[^a-zA-Z]trietree</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -129,12 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/org/delin/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/delin/concurrent/util/SealedUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/delin/concurrent/ILock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/delin/concurrent/CASLock.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/delin/concurrent/CASLockTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/delin/commom/TestConcurrentAndSerial.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/delin/commom/DeadLockTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/delin/commom/VolatileTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/delin/test/IteratorParamCall.java" />
@@ -166,7 +182,6 @@
         <option value="$PROJECT_DIR$/src/test/java/org/delin/concurrent/ThreadTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/delin/test/array/ArrayPrinter.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/delin/algorithm/MergeSortTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
         <option value="$PROJECT_DIR$/src/main/java/org/delin/mem/InstrumentAgent.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/delin/reflect/AbstractReflector.java" />
@@ -177,6 +192,16 @@
         <option value="$PROJECT_DIR$/src/main/java/org/delin/mem/UnsafeAccess.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/delin/test/data/UnsortBigDataGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/delin/algorithm/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/delin/algorithm/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/delin/algorithm/backtrack/Hanoi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/delin/algorithm/backtrack/EightQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/delin/algorithm/recursion/Hanoi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/delin/algorithm/backtrack/EightQueen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/delin/util/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/delin/algorithm/tiertree/TrieTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/delin/algorithm/tiertree/TrieTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/delin/algorithm/trietree/TrieTreeTest.java" />
       </list>
     </option>
   </component>
@@ -211,7 +236,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="342" />
+    <option name="y" value="126" />
     <option name="width" value="1178" />
     <option name="height" value="1087" />
   </component>
@@ -223,7 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,7 +298,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="delin" type="462c0819:PsiDirectoryNode" />
-              <item name="mem" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="tiertree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
@@ -282,46 +308,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="delin" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Custom" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="delin" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Custom" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="delin" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Custom" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="delin" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Custom" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="delin" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
@@ -358,6 +345,25 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="delin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Custom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="delin" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Custom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="delin" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="trietree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Custom" type="b2602c69:ProjectViewProjectNode" />
@@ -452,6 +458,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -483,36 +490,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UnsortBigDataGenerator">
-    <configuration name="InstrumentAgent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.delin.mem.InstrumentAgent" />
+  <component name="RunManager" selected="JUnit.TrieTreeTest">
+    <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.delin.algorithm.backtrack.EightQueen" />
       <module name="Custom" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.delin.mem.*" />
+          <option name="PATTERN" value="org.delin.algorithm.backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.delin.algorithm.recursion.Hanoi" />
+      <module name="Custom" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.delin.algorithm.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.delin.algorithm.MergeSort" />
+      <option name="MAIN_CLASS_NAME" value="org.delin.algorithm.sort.MergeSort" />
       <module name="Custom" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.delin.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.delin.concurrent.ThreadTest" />
-      <module name="Custom" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.delin.concurrent.*" />
+          <option name="PATTERN" value="org.delin.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -531,20 +538,20 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="UnsafeAccessTest.testSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TrieTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Custom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.delin.mem.*" />
+          <option name="PATTERN" value="org.delin.algorithm.trietree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.delin.mem" />
-      <option name="MAIN_CLASS_NAME" value="org.delin.mem.UnsafeAccessTest" />
-      <option name="METHOD_NAME" value="testSize" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.delin.algorithm.trietree" />
+      <option name="MAIN_CLASS_NAME" value="org.delin.algorithm.trietree.TrieTreeTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
@@ -602,19 +609,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.UnsortBigDataGenerator" />
-      <item itemvalue="Application.InstrumentAgent" />
-      <item itemvalue="JUnit.UnsafeAccessTest.testSize" />
+      <item itemvalue="Application.Hanoi" />
+      <item itemvalue="Application.EightQueen" />
+      <item itemvalue="JUnit.TrieTreeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TrieTreeTest" />
+        <item itemvalue="Application.EightQueen" />
+        <item itemvalue="Application.Hanoi" />
         <item itemvalue="Application.UnsortBigDataGenerator" />
         <item itemvalue="Application.MergeSort" />
-        <item itemvalue="JUnit.UnsafeAccessTest.testSize" />
-        <item itemvalue="Application.InstrumentAgent" />
-        <item itemvalue="Application.ThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -637,43 +644,47 @@
       <workItem from="1554169944278" duration="4790000" />
       <workItem from="1554277145521" duration="14764000" />
       <workItem from="1554362504166" duration="50354000" />
+      <workItem from="1555150915027" duration="8756000" />
+      <workItem from="1555206810337" duration="1253000" />
+      <workItem from="1555211092142" duration="76000" />
+      <workItem from="1555327448993" duration="5632000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 06m 47s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 46m 24s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 08m 13s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 46m 38s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 09m 03s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 46m 49s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 10m 25s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 47m 10s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 11m 13s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 52m 41s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 12m 15s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 56m 26s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 12m 33s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 56m 36s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 17m 04s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 57m 46s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 22m 19s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 58m 03s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnsafeAccessTest_testSize - 2019.04.06 at 20h 31m 13s.xml">
-      <configuration name="UnsafeAccessTest.testSize" configurationId="JUnit" />
+    <history-entry file="TrieTreeTest - 2019.04.15 at 20h 58m 13s.xml">
+      <configuration name="TrieTreeTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81640000" />
+    <option name="totallyTimeSpent" value="97357000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -695,18 +706,17 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49667773" weight="0.033229493" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49667773" weight="0.39875388" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Designer" order="6" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65524405" visible="true" weight="0.07696567" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6510903" visible="true" weight="0.17054264" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.24972315" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889258" weight="0.32917964" />
-      <window_info id="Structure" order="1" sideWeight="0.34475598" side_tool="true" visible="true" weight="0.07696567" />
+      <window_info id="Structure" order="1" sideWeight="0.34890965" side_tool="true" visible="true" weight="0.17054264" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6461794" weight="0.39937758" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -716,6 +726,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889258" weight="0.32917964" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -730,69 +741,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/delin/reflect/RelectionsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/delin/reflect/BeanUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8x86/src.zip!/java/lang/reflect/GenericDeclaration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8x86/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/org/delin/reflect/TestInherit.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <folding>
-            <element signature="e#0#2617#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/delin/reflect/TestBeanA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/delin/reflect/TestBeanB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,7 +812,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="130.0" y="112.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="130.0" y="113.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -882,7 +834,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="194.5" y="2447.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="195.0" y="2447.0" />
           <SelectedNodes />
           <Categories>
             <Category>Methods</Category>
@@ -910,15 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -926,9 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -936,9 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#819#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -946,9 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1590">
           <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -963,9 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#195#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -987,10 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -998,10 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <element signature="e#1458#1459#0" expanded="true" />
-            <element signature="e#1489#1490#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1009,14 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1024,13 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
           <caret line="83" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-            <element signature="e#1079#1080#0" expanded="true" />
-            <element signature="e#1284#1285#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1048,20 +956,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/org/delin/concurrent/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1093,20 +992,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="67" column="50" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/reflect/AbstractReflector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1121,9 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1131,9 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="746">
           <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1141,9 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1151,14 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1166,11 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1483#1484#0" expanded="true" />
-            <element signature="e#1527#1528#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1211,18 +1078,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/test/data/UnsortBigDataGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="1290">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/util/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="842">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/recursion/Hanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="19" lean-forward="true" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/backtrack/EightQueen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="160" column="33" lean-forward="true" selection-start-line="160" selection-start-column="33" selection-end-line="160" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="630">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/tiertree/TrieTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#1836#1837#0" expanded="true" />
+            <element signature="e#1867#1868#0" expanded="true" />
+            <element signature="e#1895#1896#0" expanded="true" />
+            <element signature="e#1922#1923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/delin/algorithm/tiertree/TrieTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/delin/algorithm/trietree/TrieTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
