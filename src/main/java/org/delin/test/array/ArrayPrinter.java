@@ -10,5 +10,12 @@ public class ArrayPrinter {
             System.out.print(",");
         });
         System.out.println("]");
+    }    public static void printIntArray(int[][] arr){
+        System.out.print("[");
+        Arrays.stream(arr).forEach(e->{
+            printIntArray(e);
+            System.out.println();
+        });
+        System.out.println("]");
     }
 }
