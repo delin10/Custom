@@ -20,6 +20,7 @@ import java.util.function.Supplier;
  */
 public class BinarySortTree<K extends Comparable, V> implements ITree<K, V> {
     private Node<K, V> root;
+    protected int size;
 
     public BinarySortTree() {
     }
@@ -51,6 +52,7 @@ public class BinarySortTree<K extends Comparable, V> implements ITree<K, V> {
             replace(precursor, precursor.getLeft(), false);//replace precursor with its left node
             replace(node, precursor, true);//replace this node with precursor
         }
+        --size;
         return node;
     }
 
@@ -69,13 +71,13 @@ public class BinarySortTree<K extends Comparable, V> implements ITree<K, V> {
 
     @Override
     public Node<K, V> search(K key) {
-        return helpSearch(key, root);
+        return helpSearch(key, getRoot());
     }
 
     @Override
     public List<Node<K, V>> searchAll(K key) {
         List<Node<K, V>> ls = new ArrayList<>();
-        helpSearchAll(key, root, ls);
+        helpSearchAll(key, getRoot(), ls);
         return ls;
     }
 
@@ -87,6 +89,11 @@ public class BinarySortTree<K extends Comparable, V> implements ITree<K, V> {
     @Override
     public boolean isEmpty() {
         return root == null;
+    }
+
+    @Override
+    public int getSize() {
+        return size;
     }
 
     private Node<K, V> helpSearch(K key, Node<K, V> node) {
@@ -135,6 +142,7 @@ public class BinarySortTree<K extends Comparable, V> implements ITree<K, V> {
             if (complete != null) {
                 complete.accept(newRoot);
             }
+            ++size;
             return newRoot;
         }
         if (progress != null) {
@@ -151,6 +159,7 @@ public class BinarySortTree<K extends Comparable, V> implements ITree<K, V> {
                 if (complete != null) {
                     complete.accept(node);
                 }
+                ++size;
             }
         } else if (key.compareTo(parent.getKey()) > 0) {//大于关键字
             if (parent.getRight() != null) {
@@ -161,6 +170,7 @@ public class BinarySortTree<K extends Comparable, V> implements ITree<K, V> {
                 if (complete != null) {
                     complete.accept(node);
                 }
+                ++size;
             }
         } else {//等于关键字
             parent.setData(value);
@@ -172,6 +182,7 @@ public class BinarySortTree<K extends Comparable, V> implements ITree<K, V> {
         if (after != null) {
             after.accept(parent);
         }
+
         return node;
     }
 
