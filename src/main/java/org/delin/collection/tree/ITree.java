@@ -64,4 +64,10 @@ public interface ITree<K extends Comparable, V> {
      * @return
      */
     boolean isEmpty();
+
+    /**
+     * 获得树结点的个数
+     * @return
+     */
+    int getSize();
 }
