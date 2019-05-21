@@ -1,10 +1,12 @@
 package org.delin.util;
 
-import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.stream.Collectors;
 
 public class ArrayUtils {
     /**
      * 复制二维数组
+     *
      * @param src
      * @return 新的二维数组
      */
@@ -21,6 +23,7 @@ public class ArrayUtils {
 
     /**
      * 复制二维数组
+     *
      * @param src
      * @return 新的二维数组
      */
@@ -33,5 +36,9 @@ public class ArrayUtils {
             System.arraycopy(src[i], 0, newOne[i], 0, curLen);
         }
         return newOne;
+    }
+
+    public static <T> String join(T[] arr) {
+        return Arrays.stream(arr).map(v -> v == null ? "null" : v.toString()).collect(Collectors.joining(",", "[", "]"));
     }
 }
