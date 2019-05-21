@@ -1,13 +1,11 @@
 package org.delin.reflect.impl;
 
 import org.delin.reflect.AbstractReflector;
-import org.delin.reflect.IReflector;
 
-import javax.lang.model.type.PrimitiveType;
 import java.lang.reflect.Field;
-import java.lang.reflect.ParameterizedType;
-import java.lang.reflect.Type;
-import java.util.*;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
 
 public class JReflectorImpl extends AbstractReflector {
     //non-threadSafe
@@ -21,7 +19,6 @@ public class JReflectorImpl extends AbstractReflector {
         Field field = null;
         try {
             field = clazz.getDeclaredField(name);
-
             if (ffields == null) {
                 ffields = new HashMap<>();
                 fields.put(clazz, ffields);
@@ -50,8 +47,17 @@ public class JReflectorImpl extends AbstractReflector {
     }
 
     @Override
-    public boolean setField(Class<?> clazz, String name, String value) {
-        return false;
+    public boolean setFieldValue(Object obj, String name, Object value) {
+        Field field = getField(obj.getClass(), name);
+        if (!field.isAccessible()) {
+            field.setAccessible(true);
+        }
+        try {
+            field.set(obj, value);
+        } catch (IllegalAccessException e) {
+            return false;
+        }
+        return true;
     }
 
     @Override

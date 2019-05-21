@@ -8,7 +8,7 @@ public interface IReflector {
 
     public Field[] getAllField(Class<?> clazz);
 
-    public boolean setField(Class<?> clazz,String name,String value);
+    public boolean setFieldValue(Object object,String name,Object value);
 
     public Object getValue(Field field,Object obj);
 
